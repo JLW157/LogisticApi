@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogisticApi", "LogisticApi\LogisticApi.csproj", "{0E54355E-83F6-402B-BB02-A842EDFE0FAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticApi.Tests", "LogisticApi.Tests\LogisticApi.Tests.csproj", "{4F8F58D2-9D6A-4EB5-B950-FF705F9DD255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E54355E-83F6-402B-BB02-A842EDFE0FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E54355E-83F6-402B-BB02-A842EDFE0FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E54355E-83F6-402B-BB02-A842EDFE0FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E54355E-83F6-402B-BB02-A842EDFE0FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8F58D2-9D6A-4EB5-B950-FF705F9DD255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8F58D2-9D6A-4EB5-B950-FF705F9DD255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8F58D2-9D6A-4EB5-B950-FF705F9DD255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8F58D2-9D6A-4EB5-B950-FF705F9DD255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C723CB8-6CAD-4696-811A-B3F2F486116F}
+	EndGlobalSection
+EndGlobal
